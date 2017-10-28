@@ -1,0 +1,64 @@
+###########################################
+# Syntax Coloring Map For Vector
+
+
+###########################################
+
+###########################################
+#
+ Datatypes (KEYWORD1)
+
+###########################################
+
+
+Vector	KEYWORD1
+
+
+###########################################
+# 
+Methods and Functions (KEYWORD2)
+
+###########################################
+
+Vector	KEYWORD2
+x	KEYWORD2
+
+y	KEYWORD2
+
+z	KEYWORD2
+
+set	KEYWORD2
+
+copy	KEYWORD2
+
+get	KEYWORD2
+
+mag	KEYWORD2
+
+magSq	KEYWORD2
+
+add	KEYWORD2
+
+sub	KEYWORD2
+
+mult	KEYWORD2
+
+div	KEYWORD2
+
+dist	KEYWORD2
+
+dot	KEYWORD2
+
+normalize	KEYWORD2
+
+limit	KEYWORD2
+
+setMag	KEYWORD2
+
+heading	KEYWORD2
+
+###########################################
+#
+ Constants (LITERAL1)
+
+###########################################
